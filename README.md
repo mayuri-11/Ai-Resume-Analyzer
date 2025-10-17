@@ -65,3 +65,18 @@ Follow the steps below to set up and run the project locally 👇
 ```bash
 git clone https://github.com/mayuri-dev/ai-resume-analyzer.git
 cd ai-resume-analyzer
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+
