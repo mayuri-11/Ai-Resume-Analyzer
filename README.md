@@ -17,7 +17,7 @@ It provides **ATS compatibility scores**, **AI suggestions**, and **keyword matc
 
 ## 🖼️ Project Preview
 
-| Dashboard | AI Feedback | Resume Upload |
+| Dashboard | Resume Upload | AI Feedback |
 |:--:|:--:|:--:|
 | <img src="img1.png" width="100%" alt="Dashboard" /> |<img src="img2.png" width="100%" alt="Resume Upload" /> | <img src="img3.png" width="100%" alt="AI Feedback" /> | 
 
