@@ -1,7 +1,7 @@
 # 🌟 AI Resume Analyzer — Smart Resume Evaluation Powered by AI
 
 <p align="center">
-  <img src="assets/banner.png" alt="AI Resume Analyzer Banner" width="100%" />
+  <img src="public/readme/hero.webp" alt="AI Resume Analyzer Banner" width="100%" />
 </p>
 
 > 🚀 An intelligent, serverless, and AI-powered web app that helps users upload, analyze, and match resumes to job listings — built by **Mayuri** using **React**, **Puter.js**, and **Tailwind CSS**.
@@ -19,9 +19,7 @@ It provides **ATS compatibility scores**, **AI suggestions**, and **keyword matc
 
 | Dashboard | AI Feedback | Resume Upload |
 |:--:|:--:|:--:|
-| <img src="assets/dashboard.png" width="100%" alt="Dashboard" /> | <img src="assets/ai-feedback.png" width="100%" alt="AI Feedback" /> | <img src="assets/upload.png" width="100%" alt="Resume Upload" /> |
-
-> *(Place your screenshots inside the `/assets` folder with the names above.)*
+| <img src="img1.png" width="100%" alt="Dashboard" /> | <img src="img3.png" width="100%" alt="AI Feedback" /> | <img src="img2.png" width="100%" alt="Resume Upload" /> |
 
 ---
 
